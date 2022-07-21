@@ -30,4 +30,4 @@ I used the table to produce some interesting data:
 
 
 Conclusions:
-As we have seen since the start of the pandemic there has been a lot of talk about how effective masks are and if they help. The data here shows many things but is also not conclusive. There are many factors that have an effect on the number of cases, not only masks. There isn't a clear correlation between mask mandates and covid cases but it seems to have a positive effect in many states.
+As we have seen since the start of the pandemic there has been a lot of talk about how effective masks are and if they help. The data here shows many things but is also not conclusive. There are many factors that have an effect on the number of cases, not only masks. There isn't a clear correlation between mask mandates and covid cases but it seems to have a positive effect in many states. Many states that also never had a mask mandate but had cities that had strict mandates throughout 2020. In the future I will be looking forward to conduct more data research based on cities for more accurate results.
